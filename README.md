@@ -10,6 +10,8 @@
     * lrsuserName
     * lrspassWord
     
+    ![](readmeimages/1.png)
+    
 3. Save file and publish.
 4. copy [xapi-storyline.js](xapi-storyline.js) into the story_content folder located in you published directory. 
 5. Open story.html in text editor and add these lines to line 123.  (line 78 of story_html5.html)
@@ -18,7 +20,8 @@
 <script src="https://rawgit.com/RusticiSoftware/TinCanJS/master/build/tincan-min.js" type="text/javascript"></script>
 <script src="story_content/xapi-storyline.js" type="text/javascript"></script>
 ```
-6. View story.html or story_html5.html in browser
+6. View story.html or story_html5.html in browser.
+7. Edit Name and Email address fields then hit send and recieve.
 
 ## Advanced Instructions for use
 Coming Soon
