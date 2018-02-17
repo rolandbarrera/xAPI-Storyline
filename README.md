@@ -2,6 +2,10 @@
 
 ### This script is a proof in concept that shows how to send an xAPI statement then retrieve it from the LRS and display portions as text in storyline.
 
+Dependancies:  
+[tincan.js](https://github.com/RusticiSoftware/TinCanJS) <br>
+[Storyline2 or Higher](https://articulate.com/)
+
 ## Basic Instructions for use
 
 1. Download and open [xapi-storyline.story](hxapi-storyline.story)
